@@ -15,14 +15,26 @@
 </em></p>
 
 ### Project
+### Npm插件
+* <a href="https://www.npmjs.com/package/plugin-bytemd-rough"> bytemd富文本编辑器code copy 、 页面标注插件</a>
+
 #### React
+*  <a href="https://github.com/iiranlin/file-list">Next SSR 个人资源存放，无服务器版</a>
 *  <a href="https://github.com/iiranlin/react-blog">react个人博客前端</a>
 *  <a href="https://github.com/iiranlin/react-manage-system">react个人博客后台管理</a>
 *  <a href="https://github.com/iiranlin/nest-serve">Nest博客后端</a>
 *  <a href="https://github.com/iiranlin/xz-tools">内部财务管理工具</a>
 
 #### Vibe Coding
+均使用Gemini Build构建UI ，使用Antigravity处理细节交互，部署Cloudflare自动CICD流水线
 * <a href="https://github.com/iiranlin/flex-guard">一键维权智能AI版</a>
+* <a href="https://github.com/iiranlin/SmartJob">智汇就业服务+AI智能顾问</a>
+
+### Vue
+* <a href="https://github.com/iiranlin/web-gis-vue3">OpenLayer+vue3构建的GIS项目</a>
+* <a href="https://github.com/iiranlin/zs-lj"> Vben + Vue3 路检管理</a>
+
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
