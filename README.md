@@ -5,7 +5,7 @@
 <p>
   <em>
     个人简介
-    <a href="https://irlin.cn/article/1e61b8f1-75cb-43df-88e1-96a446390c35">irlin.cn</a>(因服务器问题已经下线)
+    <del><a href="https://irlin.cn/article/1e61b8f1-75cb-43df-88e1-96a446390c35">irlin.cn</a><del>(因服务器问题已经下线)
     <p></p>
     <a href="https://f.irlin.cn">f.irlin.cn</a>(无服务器版正在完善中)
     <p></p>
