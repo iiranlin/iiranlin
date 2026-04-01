@@ -4,9 +4,10 @@
 
 <p>
   <em>
-    个人简介
-    <del><a href="https://irlin.cn/article/1e61b8f1-75cb-43df-88e1-96a446390c35">irlin.cn</a><del>(因服务器问题已经下线)
+    个人博客
+    <a href="https://irlin.cn">irlin.cn</a>
     <p></p>
+    数字藏品
     <a href="https://f.irlin.cn">f.irlin.cn</a>(无服务器版正在完善中)
     <p></p>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </br>
